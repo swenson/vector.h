@@ -1,8 +1,11 @@
+demo
+
 # Object files
 *.o
 *.ko
 *.obj
 *.elf
+*.dSYM
 
 # Libraries
 *.lib
